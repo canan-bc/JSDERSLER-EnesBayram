@@ -1,4 +1,5 @@
 /*
+
 alert
 promt
 confirm
@@ -11,10 +12,11 @@ confirm
 
 
 //function
+
 // alert("Tekrar Deneyiniz");
 
 
-// Promt(); Kullanıcıdan değer alabiliyoruz
+// Promt(); Kullanıcıdan değer alabiliyoruz.
 
 
 // prompt("isminizi giriniz:");

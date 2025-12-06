@@ -1,4 +1,4 @@
-// Karşılaştırma operatörleri
+// Karşılaştırma operatörleri-------------------
 
 /*
 

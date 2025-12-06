@@ -1,13 +1,10 @@
-//------------- Mantıksal Operatörler
+//-------------- Mantıksal Operatörler--------
 
 /*
 
 && : ve
 || : veya
 ! : değil
-
-
-
 
 */
 
