@@ -56,21 +56,24 @@
 // ÇOKLU İF KULLANIMI
 
 
-let ad = promt("İsminizi Giriniz");
-let tckn = prompt("TCKN giriniz");
+// let ad = prompt("İsminizi Giriniz");
+// let tckn = prompt("TCKN giriniz");
 
-kontrolEt(ad, tckn);
+// kontrolEt(ad, tckn);
 
-function kontrolEt(ad, tckn) {
-    if (ad != "") {
-        if (tckn.length == 11) {
-            console.log("İsim ve tckn pronlemsiz girildi");
-        }
-        else {
-            console.log("Lütfen tc nizi 11 karakter olarak giriniz")
+// function kontrolEt(ad, tckn) {
+//     if (ad != "") {
+//         if (tckn.length == 11) {
+//             console.log("İsim ve tckn pronlemsiz girildi");
+//         }
+//         else {
+//             console.log("Lütfen tc nizi 11 karakter olarak giriniz")
 
-        }
-    } else {
-        console.log("Lütfen isim alanını boş bırakmayın");
-    }
-}
+//         }
+//     } else {
+//         console.log("Lütfen isim alanını boş bırakmayın");
+//     }
+// }
+
+
+

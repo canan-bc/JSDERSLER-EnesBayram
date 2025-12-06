@@ -25,9 +25,9 @@
 
 
 
-// let not1=9;
-// let not2=6;
-// console.log(not1*not2);
+let not1 = 9;
+let not2 = 6;
+console.log(not1 * not2);
 
 
 

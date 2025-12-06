@@ -25,3 +25,5 @@ confirm
 
 // let sonuc=confirm ("Silmek istediğinizden emin misiniz?");
 // console.log(sonuc);
+
+

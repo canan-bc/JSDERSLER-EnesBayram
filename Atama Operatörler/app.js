@@ -19,3 +19,7 @@
 // let sayi =6;
 // sayi=sayi+2;
 // console.log(sayi)
+
+
+
+
