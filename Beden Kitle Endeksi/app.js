@@ -1,3 +1,5 @@
+// beden kitle indeksi
+
 let kilo = Number(prompt("Kilonuzu giriniz"));
 
 let boy = Number(prompt("Boyunuzu metre cinsinden giriniz)"));

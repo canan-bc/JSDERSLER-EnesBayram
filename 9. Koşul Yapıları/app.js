@@ -1,4 +1,4 @@
-//Koşul yapıları
+//Koşul yapıları-----------------
 
 
 
